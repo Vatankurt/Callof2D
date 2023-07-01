@@ -4,26 +4,5 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes:
-  - enabled: 1
-    path: Assets/Scenes/_preloader.unity
-    guid: 528af123a4e1785428e1af60f9cbce1d
-  - enabled: 1
-    path: Assets/Scenes/MainScreen.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
-  - enabled: 1
-    path: Assets/Scenes/Zombies.unity
-    guid: 225bf1bafb7ccfb479c90fa641a3793c
-  - enabled: 1
-    path: Assets/Scenes/MissionSandstorm.unity
-    guid: c63d93297cc2cbb489360fb124a45841
-  - enabled: 1
-    path: Assets/Scenes/MultiplayerLoading.unity
-    guid: 3bf0bc2acf1c4ce499b2ea50750ef185
-  - enabled: 1
-    path: Assets/Scenes/Lobby.unity
-    guid: 2b391d1bbd5b841489ab9b09656ec4a4
-  - enabled: 1
-    path: Assets/Scenes/MPDeathmatch.unity
-    guid: 12e4f5b992866f9479c473c212954363
+  m_Scenes: []
   m_configObjects: {}
