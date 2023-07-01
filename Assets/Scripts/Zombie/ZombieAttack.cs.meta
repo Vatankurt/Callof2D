@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 3b70866fa27d43279aa11d938776a3a4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - DamageSound: {fileID: 8300000, guid: e2005e06947f35247a7364814e6a2908, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
